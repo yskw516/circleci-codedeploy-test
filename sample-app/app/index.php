@@ -28,6 +28,7 @@
   <div align="center">
     <h1>Congratulations</h1>
     <h2>This application was deployed using AWS CodeDeploy.</h2>
+    <p>This is <?php include('./include.php'); ?> Environment.</p>
     <p>For next steps, read the <a href="http://aws.amazon.com/documentation/codedeploy">AWS CodeDeploy Documentation</a>.</p>
   </div>
 </body>

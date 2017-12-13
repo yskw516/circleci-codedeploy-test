@@ -1,1 +1,1 @@
-print ("Production");
+<?php print("Production"); ?>
